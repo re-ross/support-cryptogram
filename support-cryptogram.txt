@@ -1,0 +1,23 @@
+AJCJC | LZPD-LDYFDZIIPQF | ZEWPBYD ICCUPQFB | ICBBZFC PQBUDJKUYD YD ICQUYD
+
+queue | pair-programming | advisor meetings | message instructor or mentor
+
+(Hints)
+A = Q
+C = E
+I = M
+L = P
+Q = N
+Y = O
+
+(Guesses)
+J = U? // correct
+U = t? // correct
+D = F? wrong R? // correct
+P = I? // correct
+K = c? // correct
+F  = g? //correct
+B = s? // correct
+Z = A // correct
+E = D // correct
+W = v // correct
